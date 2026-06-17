@@ -155,13 +155,12 @@ Retail-Sales-Analytics/
 ## 👨‍💻 Author
 
 **Akshay Gupta**
-Final Year Computer Science Engineering Student
+Information Technology Engineering 
 MBM University, Jodhpur
 
 ### Connect with Me
 
-* LinkedIn: Add your LinkedIn profile
-* GitHub: Add your GitHub profile
+* LinkedIn: linkedin.com/in/akshay-gupta-778117235
 
 ---
 
